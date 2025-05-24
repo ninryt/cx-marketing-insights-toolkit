@@ -22,7 +22,17 @@ There were no unified KPIs, no live dashboard, and no defined structure for trac
 
 ## 🔸  My Approach
 
-The project was divided into two key phases:
+## 🔸  My Approach
+
+Before diving into the analysis, I reached out to the client to clarify several foundational questions. I wanted to understand:
+- Who their users are (demographics, motivations, technical background)
+- What business goals and market scope shape their product strategy
+- What past research had already been done (e.g., surveys, interviews)
+- Whether users on the free plan faced limitations (e.g., domain connection)
+
+This initial conversation helped identify key information gaps and ensured that the audit would be relevant and focused. It also shaped the research hypotheses and prevented duplication of efforts.
+
+Based on this foundation, the project was divided into two key phases:
 
 ### 1. UX & Funnel Analysis
 - I conducted a structured review of the user journey from signup through Freemium usage
