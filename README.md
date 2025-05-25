@@ -1,4 +1,15 @@
-## CX & Marketing Insights Toolkit (SmartAgency Case Study)
+
+
+## 🔸 CX & Marketing Insights Toolkit (SmartAgency Case Study)
+
+This case demonstrates a combined approach of **UX-driven funnel analysis**, **marketing KPI design**, and **toolkit development** — all built with scalability and practical team use in mind.
+
+It highlights the importance of:
+- Aligning user insights with marketing performance
+- Creating accessible tools that empower teams
+- Bridging research and data to improve decision-making
+
+## Project Intro
 
 This project was developed during a consulting collaboration with **SmartAgency**, a Freemium-based SaaS platform offering website creation tools. The company had a steady inflow of new users, with over 500 people registering for the free version each month — yet only about **1% converted to a paid plan**.
 
@@ -119,14 +130,6 @@ The toolkit structure can be easily migrated into:
 
 ---
 
-## 🔸  Summary
-
-This case demonstrates a combined approach of **UX-driven funnel analysis**, **marketing KPI design**, and **toolkit development** — all built with scalability and practical team use in mind.
-
-It highlights the importance of:
-- Aligning user insights with marketing performance
-- Creating accessible tools that empower teams
-- Bridging research and data to improve decision-making
 
 
 
