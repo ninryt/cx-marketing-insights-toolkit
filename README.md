@@ -30,7 +30,9 @@ Before diving into the analysis, I reached out to the client to clarify several 
 
 This initial conversation helped identify key information gaps and ensured that the audit would be relevant and focused. It also shaped the research hypotheses and prevented duplication of efforts.
 
-![do github podkladki (1)](https://github.com/user-attachments/assets/68c1d445-c328-4df3-aca1-55a060cf35a4)
+![do github podkladki (3)](https://github.com/user-attachments/assets/9f3760dd-e11f-489c-9179-9a51e97b782b)
+
+
 
 
 
@@ -47,6 +49,9 @@ Based on this foundation, the project was divided into two key phases:
 - I modeled relevant KPIs: CPV, CTR, CAC, LTV, ROI/ROAS
 - I built a **plug-and-play Excel dashboard** with automated calculations and filters
 - The toolkit was designed to be used without technical skills, enabling continuous internal analysis
+
+
+![do github podkladki (2)](https://github.com/user-attachments/assets/99e49850-5a46-4705-b1ba-45b190c4b396)
 
 ---
 
@@ -68,6 +73,7 @@ Based on this foundation, the project was divided into two key phases:
 - Fully modeled marketing KPIs with adaptable calculations
 - Interactive Excel dashboard with filters and auto-updating logic
 - Documentation and instructions for non-technical teams
+
 
 ---
 
