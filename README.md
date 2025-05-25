@@ -29,6 +29,8 @@ The SmartAgency team lacked a consolidated view of:
 
 There were no unified KPIs, no live dashboard, and no defined structure for tracking campaign ROI or user behavior across touchpoints.
 
+<img width="1416" alt="Screenshot 2025-05-25 at 17 15 07" src="https://github.com/user-attachments/assets/0a851560-0f70-4c30-bbf4-ed97cf9bcab6" />
+
 ---
 
 ## 🔸  My Approach
@@ -53,7 +55,11 @@ Based on this foundation, the project was divided into two key phases:
 ### 1. UX & Funnel Analysis
 - I conducted a structured review of the user journey from signup through Freemium usage
 - I identified friction points, navigation barriers, unclear upgrade value, and trust gaps (e.g., missing social proof)
-- I mapped findings to potential impacts on CR2 and designed hypotheses for testing
+- I mapped findings to potential impacts on CR2 and designed research questions, hypotheses, variables and measurement metrics for testing
+
+<img width="1414" alt="Screenshot 2025-05-25 at 17 12 34" src="https://github.com/user-attachments/assets/ae80284c-821e-4b76-a1a1-f7092aae0650" />
+
+
 
 ### 2. Marketing KPI Framework & Dashboard
 - I benchmarked SmartAgency’s performance against competitors (e.g., Webador, Onepage.io) using SEO/PPC data
