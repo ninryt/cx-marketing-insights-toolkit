@@ -95,8 +95,11 @@ The project provided SmartAgency with:
 - The ability to analyze campaign performance without needing additional tooling
 - A foundation for future experimentation and optimization
 
----
+![marketing insights github](https://github.com/user-attachments/assets/b57f8256-28b8-4ca2-ae6b-85f8a4881078)
 
+
+
+---
 ## 🔸  Reusability
 
 The Excel toolkit was built to be:
