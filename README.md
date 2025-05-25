@@ -1,6 +1,6 @@
 
 
-## CX & Marketing Insights Toolkit (SmartAgency Case Study)
+## CX & Marketing Insights Toolkit (SmartAgency) Product Audit & Consulting
 
 This case demonstrates a combined approach of ![CX Badge](https://img.shields.io/badge/CX-660000?style=flat-square)![UX Badge](https://img.shields.io/badge/UX-800000?style=flat-square)**-driven funnel analysis**, **marketing KPI design**, and **toolkit development** — all built with scalability and practical team use in mind.
 
@@ -77,13 +77,14 @@ Based on this foundation, the project was divided into two key phases:
 
 ---
 
-## 🔸  Key Deliverables
+## 🔸 Key Deliverables
 
-- A hypothesis framework explaining potential drivers of low CR2
-- Competitor benchmarking based on search traffic, keyword strategy, and ad spend
-- Fully modeled marketing KPIs with adaptable calculations
-- Interactive Excel dashboard with filters and auto-updating logic
-- Documentation and instructions for non-technical teams
+- ✅ A hypothesis framework explaining potential drivers of low CR2  
+- ✅ Competitor benchmarking based on search traffic, keyword strategy, and ad spend  
+- ✅ Fully modeled marketing KPIs with adaptable calculations  
+- ✅ Interactive Excel dashboard with filters and auto-updating logic  
+- ✅ Documentation and instructions for non-technical teams  
+
 
 
 ---
@@ -94,6 +95,9 @@ Based on this foundation, the project was divided into two key phases:
 - Lack of visible reviews and trust signals impacted purchase decisions
 - High CPV and low ROI suggested inefficient ad budget allocation
 - There was no systematic way to compare performance across channels or optimize over time
+
+![Copy of marketing insights github](https://github.com/user-attachments/assets/3aa6fcac-dc12-4d3b-8133-b957442bb37a)
+
 
 ---
 
@@ -128,7 +132,19 @@ The toolkit structure can be easily migrated into:
 - **Streamlit app** for lightweight team access
 - **SQL**-based pipelines for deeper cohort and retention tracking
 
+
 ---
+## 🔸 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss your ideas.
+
+## 🔸 LICENSE
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+---
+## 👤 Author
+👤 N.B. Ryttel
+📧 [Email me](zerobughero@gmail.com)
+🔗 [Github](https://github.com/ninryt)
 
 
 
