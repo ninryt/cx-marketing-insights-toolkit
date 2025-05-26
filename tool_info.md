@@ -35,10 +35,8 @@ This Excel file was developed as part of a consulting engagement with SmartAgenc
 ---
 
 ## 🔸 Link to the file  
-[📥 View Excel Dashboard](https://1drv.ms/x/c/737a67b866b78ca5/EX3ZA3CXm31BpBCR6YharnkBv3UalC36iZXQDHeqeLfTjg)
-[![Excel Dashboard](https://img.shields.io/badge/View_Dashboard-0078D4?style=flat-square&logo=microsoft-excel&logoColor=white)](https://1drv.ms/x/c/737a67b866b78ca5/EX3ZA3CXm31BpBCR6Yhar)_)]()
 
 ![📥 View Excel Dashboard](https://1drv.ms/x/c/737a67b866b78ca5/EX3ZA3CXm31BpBCR6YharnkBv3UalC36iZXQDHeqeLfTjg)
 
-![BI Badge](https://img.shields.io/badge/Marketing%20Performance-000080?style=flat-square)
+
 
