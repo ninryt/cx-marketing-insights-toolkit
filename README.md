@@ -18,6 +18,9 @@ The core objectives were:
 - To assess **channel performance across paid and organic campaigns**
 - To build a **scalable, reusable analysis toolkit** that the team could use independently
 
+<img width="1418" alt="Screenshot 2025-05-26 at 11 34 36" src="https://github.com/user-attachments/assets/78fe7e50-936a-4698-8f77-d2bb417992d4" />
+
+
 ---
 
 ## 🔸  Understanding the Challenge
