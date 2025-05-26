@@ -18,7 +18,7 @@ The core objectives were:
 - To assess **channel performance across paid and organic campaigns**
 - To build a **scalable, reusable analysis toolkit** that the team could use independently
 
-<img width="1418" alt="Screenshot 2025-05-26 at 11 34 36" src="https://github.com/user-attachments/assets/78fe7e50-936a-4698-8f77-d2bb417992d4" />
+![do github podkladki 4](https://github.com/user-attachments/assets/8e21a1da-5058-466f-b839-872c38256c94)
 
 
 ---
@@ -119,7 +119,7 @@ The project provided SmartAgency with:
 - The ability to analyze campaign performance without needing additional tooling
 - A foundation for future experimentation and optimization
 
-![marketing insights github](https://github.com/user-attachments/assets/b57f8256-28b8-4ca2-ae6b-85f8a4881078)
+<img width="1418" alt="Screenshot 2025-05-26 at 11 34 36" src="https://github.com/user-attachments/assets/78fe7e50-936a-4698-8f77-d2bb417992d4" />
 
 
 
