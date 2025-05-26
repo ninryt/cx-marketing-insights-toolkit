@@ -1,6 +1,6 @@
 
 
-## CX & Marketing Insights Toolkit Product Audit & Consulting for SmartAgency
+## UX Audit, CX & Marketing Insights Toolkit Product Audit & Consulting for SmartAgency
 
 This case demonstrates a combined approach of ![CX Badge](https://img.shields.io/badge/CX-660000?style=flat-square)![UX Badge](https://img.shields.io/badge/UX-800000?style=flat-square)**-driven funnel analysis**, **marketing KPI design**, and **toolkit development** — all built with scalability and practical team use in mind.
 
